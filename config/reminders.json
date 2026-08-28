@@ -1,0 +1,57 @@
+[
+  {
+    "id": "manual-001",
+    "tanggal": "2026-09-02",
+    "jam": "07:30",
+    "grup": "PUBLIKASI",
+    "pesan": "Jangan lupa upload feed hari ini."
+  },
+  {
+    "id": "test-20260828-1717-1",
+    "tanggal": "2026-08-28",
+    "jam": "17:19",
+    "grup": "TEST",
+    "pesan": "[UJI 1/6] BRAMA hidup. Dijadwalkan 17:19.",
+    "asal": "test-blast"
+  },
+  {
+    "id": "test-20260828-1717-2",
+    "tanggal": "2026-08-28",
+    "jam": "17:29",
+    "grup": "TEST",
+    "pesan": "[UJI 2/6] BRAMA hidup. Dijadwalkan 17:29.",
+    "asal": "test-blast"
+  },
+  {
+    "id": "test-20260828-1717-3",
+    "tanggal": "2026-08-28",
+    "jam": "17:39",
+    "grup": "TEST",
+    "pesan": "[UJI 3/6] BRAMA hidup. Dijadwalkan 17:39.",
+    "asal": "test-blast"
+  },
+  {
+    "id": "test-20260828-1717-4",
+    "tanggal": "2026-08-28",
+    "jam": "17:49",
+    "grup": "TEST",
+    "pesan": "[UJI 4/6] BRAMA hidup. Dijadwalkan 17:49.",
+    "asal": "test-blast"
+  },
+  {
+    "id": "test-20260828-1717-5",
+    "tanggal": "2026-08-28",
+    "jam": "17:59",
+    "grup": "TEST",
+    "pesan": "[UJI 5/6] BRAMA hidup. Dijadwalkan 17:59.",
+    "asal": "test-blast"
+  },
+  {
+    "id": "test-20260828-1717-6",
+    "tanggal": "2026-08-28",
+    "jam": "18:09",
+    "grup": "TEST",
+    "pesan": "[UJI 6/6] BRAMA hidup. Dijadwalkan 18:09.",
+    "asal": "test-blast"
+  }
+]

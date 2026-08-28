@@ -1,0 +1,17 @@
+# --- identitas & rahasia (JANGAN PERNAH di-commit) ---
+# *_sessions/ berisi creds.json = login WhatsApp: nomor, nama, kunci enkripsi
+.env
+*_sessions/
+*.qr.png
+RAHASIA.local.md
+
+# --- data organisasi nyata (contoh anonim ada di *.example.csv) ---
+schedule_reminder_cnc.csv
+konteks/schedule_reminder.csv
+
+# --- runtime & keluaran ---
+# SOP.docx = keluaran sop-docx.py; versi final berisi nama asli pengurus
+node_modules/
+data/state.json
+SOP.docx
+.ruff_cache/

@@ -1,0 +1,6 @@
+"id_reminder","tanggal_reminder","hari_reminder","tipe_reminder","aturan_reminder","nama_kegiatan","proker_pemilik","sub_proker","proker_diinfokan","tanggal_deadline","tanggal_upload_final","tanggal_upload_teks","sumber_deadline","catatan","pesan_reminder"
+"CNC-001","2026-09-01","Selasa","H-1","H-1","Contoh kegiatan A","CnC","Sub contoh","CnC|Pubmedsos","2026-09-02","2026-09-05","Sabtu, 5 September 2026","tabel","contoh anonim","📢 H-1 Contoh kegiatan A
+Halo, reminder yaa 👋
+📅 Sabtu, 5 September 2026"
+"CNC-002","2026-09-10","Kamis","H","Hari H","Contoh kegiatan B","CnC","Sub contoh","Medkom","2026-09-10","2026-09-10","Kamis, 10 September 2026","turunan","contoh anonim","📢 Hari H Contoh kegiatan B
+Hari ini deadline-nya!"
